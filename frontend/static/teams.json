@@ -1,0 +1,197 @@
+{
+  "collection": [
+    {
+      "name": "Argentina",
+      "ranking": 5,
+      "eliminated": false,
+      "group": "D"
+    },
+    {
+      "name": "Australia",
+      "ranking": 40,
+      "eliminated": false,
+      "group": "C"
+    },
+    {
+      "name": "Belgium",
+      "ranking": 3,
+      "eliminated": false,
+      "group": "G"
+    },
+    {
+      "name": "Brazil",
+      "ranking": 2,
+      "eliminated": true,
+      "group": "E",
+      "user": "Hammy Goonan"
+    },
+    {
+      "name": "Colombia",
+      "ranking": 16,
+      "eliminated": false,
+      "group": "H"
+    },
+    {
+      "name": "Costa Rica",
+      "ranking": 25,
+      "eliminated": false,
+      "group": "E"
+    },
+    {
+      "name": "Croatia",
+      "ranking": 18,
+      "eliminated": false,
+      "group": "D"
+    },
+    {
+      "name": "Denmark",
+      "ranking": 12,
+      "eliminated": false,
+      "group": "C"
+    },
+    {
+      "name": "Egypt",
+      "ranking": 46,
+      "eliminated": false,
+      "group": "A"
+    },
+    {
+      "name": "England",
+      "ranking": 13,
+      "eliminated": false,
+      "group": "G"
+    },
+    {
+      "name": "France",
+      "ranking": 7,
+      "eliminated": false,
+      "group": "C"
+    },
+    {
+      "name": "Germany",
+      "ranking": 1,
+      "eliminated": false,
+      "group": "F"
+    },
+    {
+      "name": "Iceland",
+      "ranking": 22,
+      "eliminated": false,
+      "group": "D"
+    },
+    {
+      "name": "Iran",
+      "ranking": 36,
+      "eliminated": false,
+      "group": "B"
+    },
+    {
+      "name": "Japan",
+      "ranking": 60,
+      "eliminated": false,
+      "group": "H"
+    },
+    {
+      "name": "Korea",
+      "ranking": 61,
+      "eliminated": false,
+      "group": "F"
+    },
+    {
+      "name": "Mexico",
+      "ranking": 15,
+      "eliminated": false,
+      "group": "F"
+    },
+    {
+      "name": "Morocco",
+      "ranking": 34,
+      "eliminated": false,
+      "group": "B"
+    },
+    {
+      "name": "Nigera",
+      "ranking": 47,
+      "eliminated": false,
+      "group": "D"
+    },
+    {
+      "name": "Panama",
+      "ranking": 55,
+      "eliminated": false,
+      "group": "G"
+    },
+    {
+      "name": "Peru",
+      "ranking": 1,
+      "eliminated": false,
+      "group": "C"
+    },
+    {
+      "name": "Poland",
+      "ranking": 10,
+      "eliminated": false,
+      "group": "H"
+    },
+    {
+      "name": "Portugal",
+      "ranking": 4,
+      "eliminated": false,
+      "group": "B"
+    },
+    {
+      "name": "Russia",
+      "ranking": 66,
+      "eliminated": false,
+      "group": "A"
+    },
+    {
+      "name": "Saudi Arabia",
+      "ranking": 67,
+      "eliminated": false,
+      "group": "A"
+    },
+    {
+      "name": "Senegal",
+      "ranking": 48,
+      "eliminated": false,
+      "group": "H"
+    },
+    {
+      "name": "Serbia",
+      "ranking": 35,
+      "eliminated": false,
+      "group": "E"
+    },
+    {
+      "name": "Spain",
+      "ranking": 8,
+      "eliminated": false,
+      "group": "B"
+    },
+    {
+      "name": "Sweeden",
+      "ranking": 23,
+      "eliminated": false,
+      "group": "F"
+    },
+    {
+      "name": "Switzerland",
+      "ranking": 6,
+      "eliminated": false,
+      "group": "E"
+    },
+    {
+      "name": "Tunisia",
+      "ranking": 14,
+      "eliminated": false,
+      "group": "G"
+    },
+    {
+      "name": "Uruguay",
+      "ranking": 17,
+      "eliminated": false,
+      "group": "A"
+    }
+  ]
+}
